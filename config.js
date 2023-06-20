@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['+22372268134', 'Dinuwa Official²⁰²³', true],
+  ['+22372268134', 'Dinuwa Official²⁰²³', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94740804536','94740804536'] 
-global.prems = ['94740804536', '94740804536', '94740804536']
+global.mods = ['+22372268134','+22372268134'] 
+global.prems = ['+22372268134', '+22372268134', '+22372268134']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,15 +47,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
+global.packname = '༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆ Created By 💝 Dinuwa Official²⁰²³ 💝' 
+global.author = '༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.dygp = 'https://chat.whatsapp.com/Hi7sNlhtgrTBkVNaBeNlEr'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.fgyt = 'https://chat.whatsapp.com/Hi7sNlhtgrTBkVNaBeNlEr'
+global.fgpyp = 'https://chat.whatsapp.com/Hi7sNlhtgrTBkVNaBeNlEr'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
